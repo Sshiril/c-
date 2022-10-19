@@ -2,9 +2,7 @@
 
 using System;
 
- 
-namespace and_operator
-{
+
     class Program
     {
         static void Main(string[] args)
@@ -26,4 +24,4 @@ namespace and_operator
             Console.ReadLine();
         }
     }
-}
+
