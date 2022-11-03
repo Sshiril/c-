@@ -20,7 +20,9 @@ class Program
         if (opt == 1)
         {
             Console.WriteLine("Correct");
+        }
       else
+      {
                 Console.WriteLine("Incorrect");
         }
 
